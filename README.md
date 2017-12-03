@@ -1,3 +1,5 @@
+This repo is no longer maintained, please use [owski/docker-ripme](https://github.com/owski/docker-ripme) moving forward. Docker container will be available shortly.
+
 # docker-ripme
 
 Lightweight (alpine) image for [ripme](https://github.com/4pr0n/ripme).
