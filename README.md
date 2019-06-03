@@ -1,4 +1,4 @@
-This repo is no longer maintained, please use [owski/docker-ripme](https://github.com/owski/docker-ripme) moving forward. Docker container will be available shortly.
+Other forks are not being incremented regularly. I will try to keep this uptodate.
 
 # docker-ripme
 
