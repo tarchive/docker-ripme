@@ -76,5 +76,5 @@ usage: java -jar ripme.jar [OPTIONS]
 Only additional args need to be passed:
 
 ```
-docker run -it -v /tmp/data:/data kastang/ripme -u 'https://reddit.com/r/pics'
+docker run -it -v /tmp/data:/data tarchive2/ripme -u 'https://reddit.com/r/pics'
 ```
